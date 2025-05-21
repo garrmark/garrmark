@@ -14,12 +14,12 @@ When I'm not creating release pipelines or building SaaS offerings, I can be fou
 
 [<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" height="50px">](https://argoproj.github.io/cd/)
 [<img src="https://avatars.githubusercontent.com/u/45158470?s=200&v=4" height="50px">](https://www.crossplane.io/)
+[<img src="https://api.iconify.design/logos:neo4j.svg" height="50px">](https://graphacademy.neo4j.com/)
+[<img src="https://mintlify.s3.us-west-1.amazonaws.com/mcp/logo/light.svg" height="50px">](https://modelcontextprotocol.io/introduction)
 
 ## 🌱 I’m currently learning
 
-[<img src="https://api.iconify.design/simple-icons:langchain.svg" height="50px">](https://academy.langchain.com/)
-[<img src="https://api.iconify.design/logos:neo4j.svg" height="50px">](https://graphacademy.neo4j.com/)
-[<img src="https://mintlify.s3.us-west-1.amazonaws.com/mcp/logo/light.svg" height="50px">](https://modelcontextprotocol.io/introduction)
+[<img src="https://www.cursor.com/assets/images/logo.svg" height="50px">](https://www.cursor.com/)
 
 ## 🔨 I've contributed to
 
